@@ -10,7 +10,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px"> </picture>
 
 - 🎓 Estudiante de Ingeniería de Sistemas en la Escuela Militar de Ingeniería – 4to año
-- 💡 Lema personal: "Aprende más y aplica, así se arregla todo"
+- 💡 Lema personal: "Aprende, aplica y soluciona."
 - 👾 Me inicié en tech gracias a la programación de videojuegos
 - 🧠 Interesado en: desarrollo web, inteligencia artificial, ciberseguridad, apps móviles y videojuegos
 - 🏗️ Objetivo a corto plazo: aprender mucho y crear proyectos útiles

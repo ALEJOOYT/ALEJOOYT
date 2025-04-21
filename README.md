@@ -22,7 +22,7 @@
 
 - 🐚 Me apasionan: el pentesting, análisis forense, reversing y criptografía
 - 🧠 Herramientas: `Nmap`, `Wireshark`, `Burp Suite`, `Metasploit`, `GDB`, `Exiftool`, `CyberChef`, `JohnTheRipper`, `Binwalk`, `SQLMap`, `GHydra`, `dcode`
-- 🏆 **Primer Lugar - CIDSI CyberShield Bolivia**
+- 🏆 **Primer Lugar - Práctica de CIDSI CyberShield Bolivia**
   - 🥇 Equipo: **Cyber**
   - 🎯 Puntuación total: `14764 puntos`
   - 👨‍✈️ Capitán del equipo: Izai Alejandro Zalles Merino

@@ -26,8 +26,7 @@
   - 🥇 Equipo: **CyberShield**
   - 🎯 Puntuación total: `15664 puntos`
   - 👨‍✈️ Capitán del equipo: Izai Alejandro Zalles Merino
-  - 👾 
-  - [CTFd plataforma de práctica](https://ctf.cgii.gob.bo/scoreboard)
+  - 👾 [CTFd plataforma de práctica](https://ctf.cgii.gob.bo/scoreboard)
 
 ---
 

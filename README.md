@@ -73,7 +73,7 @@
 ## 🚧 Proyectos Destacados
 
 - 🔬 [Virtual Physics – Simulador interactivo en GitLab](https://gitlab.com/develop1895209/VirtualPhysics)
-- 📂 [Repositorios públicos en GitHub](https://github.com/ALEJOOYT?tab=repositories)
+- 📂 [Repositorios públicos en GitHub](https://github.com/ialejandrozalles?tab=repositories)
 - 👨‍🚀 Participante en el Hackathon NASA Space Apps La Paz 2023 – UPB
 
 ---

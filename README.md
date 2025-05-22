@@ -22,12 +22,6 @@
 
 - 🐚 Me apasionan: el pentesting, análisis forense, reversing y criptografía
 - 🧠 Herramientas: `Nmap`, `Wireshark`, `Burp Suite`, `Metasploit`, `GDB`, `Exiftool`, `CyberChef`, `JohnTheRipper`, `Binwalk`, `SQLMap`, `GHydra`, `dcode`
-- 🏆 **Primer Lugar - CTFd plataforma de práctica -> Bolivia**
-  - 🥇 Equipo: **CyberShield**
-  - 🎯 Puntuación total: `15664 puntos`
-  - 👨‍✈️ Capitán del equipo: Izai Alejandro Zalles Merino
-  - 👾 [CTFd plataforma de práctica](https://ctf.cgii.gob.bo/scoreboard)
-
 ---
 
 ## 💻 Skills
